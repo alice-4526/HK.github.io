@@ -3,7 +3,7 @@
 
 传送门(https://github.com/alice-4526/HK.github.io)
 
-You can use the [editor on GitHub](https://github.com/alice-4526/HK.github.io) to maintain and preview the content for your website in Markdown files.
+You can use the [传送门](https://github.com/alice-4526/HK.github.io) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
