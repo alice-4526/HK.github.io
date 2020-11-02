@@ -1,14 +1,13 @@
 ## 欢迎来到MK的博客
 因为是首次尝试创建网站还有很多的不足，该网站只作为一个引荐。
 
-[传送门](https://github.com/alice-4526/HK.github.io)
+<u>[传送门](https://github.com/alice-4526/HK.github.io)</u>
 
 You can use the [传送门](https://github.com/alice-4526/HK.github.io) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-***
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
